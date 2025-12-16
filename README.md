@@ -7,7 +7,7 @@
 
 > A comprehensive, enterprise-grade Hotel Management System featuring a modern "Midnight" dashboard interface, live revenue tracking, automated PDF invoicing, and tax-compliant billing logic.
 
-![Project Dashboard Preview](screenshots/dashboard_preview.png)
+![Project Dashboard Preview]( -<img width="1711" height="1018" alt="Screenshot 2025-12-16 234133" src="https://github.com/user-attachments/assets/130b9857-bb29-4af6-99ed-1b3ba9ae3171" />)
 
 ## ✨ Key Features
 
@@ -78,8 +78,7 @@ INSERT INTO rooms (roomNumber, type, pricePerDay) VALUES
 In Eclipse, right-click your project > Build Path > Configure Build Path > Libraries > Add External JARs.
 Add the following files:
  - ** mysql-connector-j-x.x.x.jar
- -<img width="1711" height="1018" alt="Screenshot 2025-12-16 234133" src="https://github.com/user-attachments/assets/130b9857-bb29-4af6-99ed-1b3ba9ae3171" />
- **itextpdf-5.5.13.2.jar
+ - **itextpdf-5.5.13.2.jar
 
 4.**Run the Application**
 
